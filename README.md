@@ -55,7 +55,7 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Nasir-CY/MULTI-VM-DEPARTMENTAL-HOMELAB) |
 | 02-IAM-On-Prem ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-IAM & Cloud Security | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Nasir-CY/AWS-IAM-CLOUD-SECURITY/blob/main/README.md) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
