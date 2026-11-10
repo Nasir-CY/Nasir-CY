@@ -55,8 +55,8 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Nasir-CY/MULTI-VM-DEPARTMENTAL-HOMELAB]|
-| 01A-Network-Segmentation MultiVM | IS)27001 A8.22 Network segmentation in a multi-VM lab | [https://github.com/Nasir-CY/NETWORK-SEGMENTATION] |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Nasir-CY/MULTI-VM-DEPARTMENTAL-HOMELAB) |
+| 01A-Network-Segmentation MultiVM | IS)27001 A8.22 Network segmentation in a multi-VM lab | [View Repo](https://github.com/Nasir-CY/NETWORK-SEGMENTATION) |
 | 02-IAM-On-Prem ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-IAM & Cloud Security | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Nasir-CY/AWS-IAM-CLOUD-SECURITY/blob/main/README.md) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
