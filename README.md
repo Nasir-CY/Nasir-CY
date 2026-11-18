@@ -61,7 +61,7 @@
 | 02-IAM-On-Prem ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Nasir-CY/IDENTITY-ACCESS-MANAGEMENT-On-Premises-Active-Directory-Implementation/blob/main/README.md) |
 | 03-AWS-IAM & Cloud Security | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Nasir-CY/AWS-IAM-CLOUD-SECURITY/blob/main/README.md) |
 | 04-security-policy-dev | Crafting AUP, password, ACL policies AND MORE | [View Repo](https://github.com/Nasir-CY/SECURITY-POLICY-DEVELOPMENT-Using-ISO-27001-SANS-Institute-Templates/blob/main/README.md) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Nasir-CY/Nessus-Network-Vulnerability-Management) |
 | 06-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 07-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 08- SIEM | Splunk event monitoring & detection|
