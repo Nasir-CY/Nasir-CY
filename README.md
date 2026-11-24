@@ -26,7 +26,7 @@ This portfolio documents my technical projects, investigation methodologies, sec
 **Period:** \[March 2026 – Present \]  
 **Environment:** \[production\]
 
-**Selected responsibilities (retain only those personally completed):**
+**Cybersecurity Analyst:**
 
 - Threat Intelligence Assessment: Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance.  
 - IOC-to-Detection Handoff: Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.  
