@@ -1,8 +1,8 @@
-Nasir Olayinka
+##Nasir Olayinka
 
-Cybersecurity Analyst | Network Security | Threat Intelligence & Security Analysis
+#Cybersecurity Analyst | Network Security | Threat Intelligence & Security Analysis
 
-Cyber Threat Intelligence | Security Operations | Vulnerability Management | Network & Cloud Security
+#Cyber Threat Intelligence | Security Operations | Vulnerability Management | Network & Cloud Security
 
 📍 Red Deer, Alberta, Canada
 🔗 www.linkedin.com/in/nasir-olayinka | 📧 hikkyluv70@gmail.com | 💻 [GitHub](https://github.com/Nasir-CY)
