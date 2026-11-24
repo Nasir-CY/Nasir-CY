@@ -1,41 +1,62 @@
-# Nasir Olayinka  Cybersecurity/Network Analyst
+Nasir Olayinka
 
-👋 Hello! I’m **Nasir Olayinka**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+Cybersecurity Analyst | Network Security | Threat Intelligence & Security Analysis
 
----
+Cyber Threat Intelligence | Security Operations | Vulnerability Management | Network & Cloud Security
 
-## 🛡 Project Highlights
+📍 Red Deer, Alberta, Canada
+🔗 www.linkedin.com/in/nasir-olayinka | 📧 hikkyluv70@gmail.com | 💻 [GitHub](https://github.com/Nasir-CY)
+  · [Resume URL]
+Professional profile
+I am a Cybersecurity and Network Analyst with practical experience in infrastructure security, network administration, vulnerability assessment, identity and access management, threat intelligence, and security monitoring.
 
-### Lab Foundations
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+My technical development combines hands-on laboratory implementations, structured security assessments, applied threat intelligence exercises, and independent technical projects.
 
+I focus on understanding how security controls operate across on-premises and cloud environments, identifying vulnerabilities and misconfigurations, investigating potential threats, and translating technical findings into actionable security recommendations.
 
-### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
-- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy
-
-### Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
-- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
-
-### Detection & Monitoring
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
+This portfolio documents my technical projects, investigation methodologies, security configurations, assessment reports, and continuous professional development. Each project aims to demonstrate not only the tools used but also the security problem addressed, methodology followed, evidence collected, findings established, and lessons learned.
 
 
-### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+Practical experience | Halisans Technologies
+Role: [Actual role / mentee pathway]
+Period: [March 2026 – Present]
+Environment: [ supervised internal operations]
+Selected responsibilities :
+Threat Intelligence Assessment:  OTX/SOC Radar intelligence, validate indicators and assess local relevance.
+IOC-to-Detection Handoff: Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.
+MITRE ATT&CK Mapping: Map observed behaviors to techniques, distinguish evidence from assumptions.
+Security Investigation Report: Correlate available telemetry, assess impact and communicate recommended actions.
+Impact highlights:
+[Action] across [verified scope] resulting in [verified outcome].
+Produced [specific sanitized deliverable] reviewed by [role, if approved for disclosure].
+Improved [process/control] by [measured or observable result].
+Featured case studies
+Case study
+What the reviewer will learn
+Threat Intelligence Assessment
+Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance.
+IOC-to-Detection Handoff
+Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.
+MITRE ATT&CK Mapping
+Map observed behaviors to techniques, distinguish evidence from assumptions.
+Security Investigation Report
+Correlate available telemetry, assess impact and communicate recommended actions.
 
-### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+Independent technical projects
+Project
+What I built
+Evidence
+[Independent project 1]
+[Architecture, configuration, or process]
+[Repository link]
+[Independent project 2]
+[Tested solution and lessons learned]
+[Repository link]
 
-### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+Technical capabilities
+AlienVault OTX, SOC Radar, MITRE ATT&CK, Microsoft Sentinel, Microsoft Defender, KQL, Jira Service Mntanageme
 
-### Malware & Exploit Analysis
-- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
-- **Malicious PDF Analysis** – Payload extraction and script dissection
+
 
 
 
@@ -72,18 +93,30 @@
 | 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
+**Evidence and documentation standards**
+Every featured case study includes a scenario, scope and authorization, my individual contribution, methodology, sanitized evidence, analysis, result, limitations, and lessons learned. Screenshots alone do not demonstrate outcomes.
+**Confidentiality:** No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
+
+
+Professional development
+Frameworks and standards: [Only those actually used]
+Certifications / courses: [Verified certifications and training]
+Current focus: [Specific technical growth goal]
+
 ---
 
 ## Contact
 
 - **LinkedIn:** www.linkedin.com/in/nasir-olayinka
 - **Email:** <hikkyluv70@gmail.com>  
-
+- **GitHub:** [Profile URL]
 ---
 
 > “Cybersecurity is not only a discipline, it is a mindset.”
 
-Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
+
+All cases are labeled as simulated, supervised, or operational as appropriate. All outcomes are evidence-backed.
+
 
 
 
