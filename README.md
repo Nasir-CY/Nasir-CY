@@ -8,9 +8,8 @@ Cyber Threat Intelligence | Security Operations | Vulnerability Management | Net
 🔗 www.linkedin.com/in/nasir-olayinka | 📧 hikkyluv70@gmail.com | 💻 [GitHub](https://github.com/Nasir-CY)
 
 
-- **Professional profile:**
+## Professional profile
 
-  
 I am a Cybersecurity and Network Analyst with practical experience in infrastructure security, network administration, vulnerability assessment, identity and access management, threat intelligence, and security monitoring.
 
 My technical development combines hands-on laboratory implementations, structured security assessments, applied threat intelligence exercises, and independent technical projects.
@@ -20,44 +19,46 @@ I focus on understanding how security controls operate across on-premises and cl
 This portfolio documents my technical projects, investigation methodologies, security configurations, assessment reports, and continuous professional development. Each project aims to demonstrate not only the tools used but also the security problem addressed, methodology followed, evidence collected, findings established, and lessons learned.
 
 
-Practical experience | Halisans Technologies
-Role: [Actual role / mentee pathway]
-Period: [March 2026 – Present]
-Environment: [ supervised internal operations]
-Selected responsibilities :
-Threat Intelligence Assessment:  OTX/SOC Radar intelligence, validate indicators and assess local relevance.
-IOC-to-Detection Handoff: Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.
-MITRE ATT&CK Mapping: Map observed behaviors to techniques, distinguish evidence from assumptions.
-Security Investigation Report: Correlate available telemetry, assess impact and communicate recommended actions.
-Impact highlights:
-[Action] across [verified scope] resulting in [verified outcome].
-Produced [specific sanitized deliverable] reviewed by [role, if approved for disclosure].
-Improved [process/control] by [measured or observable result].
-Featured case studies
-Case study
-What the reviewer will learn
-Threat Intelligence Assessment
-Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance.
-IOC-to-Detection Handoff
-Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.
-MITRE ATT&CK Mapping
-Map observed behaviors to techniques, distinguish evidence from assumptions.
-Security Investigation Report
-Correlate available telemetry, assess impact and communicate recommended actions.
 
-Independent technical projects
-Project
-What I built
-Evidence
-[Independent project 1]
-[Architecture, configuration, or process]
-[Repository link]
-[Independent project 2]
-[Tested solution and lessons learned]
-[Repository link]
+## Practical experience \| Halisans Technologies
 
-Technical capabilities
-AlienVault OTX, SOC Radar, MITRE ATT&CK, Microsoft Sentinel, Microsoft Defender, KQL, Jira Service Mntanageme
+**Role:** \[Analyst\]  
+**Period:** \[March 2026 – Present \]  
+**Environment:** \[production\]
+
+**Selected responsibilities (retain only those personally completed):**
+
+- Threat Intelligence Assessment: Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance.  
+- IOC-to-Detection Handoff: Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.  
+- MITRE ATT\&CK Mapping: Map observed behaviors to techniques, distinguish evidence from assumptions.  
+- Security Investigation Report: Correlate available telemetry, assess impact and communicate recommended actions.
+
+**Impact highlights:**
+
+- \[Action\] across \[verified scope\] resulting in \[verified outcome\].  
+- Produced \[specific sanitized deliverable\] reviewed by \[role, if approved for disclosure\].  
+- Improved \[process/control\] by \[measured or observable result\].
+
+## Featured case studies
+
+| Case study | What the reviewer will learn |
+| :---- | :---- |
+| [Threat Intelligence Assessment](./case-studies/01-threat-intelligence-assessment/README.md) | Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance. |
+| [IOC-to-Detection Handoff](./case-studies/02-ioc-to-detection-handoff/README.md) | Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff. |
+| [MITRE ATT\&CK Mapping](./case-studies/03-mitre-attandck-mapping/README.md) | Map observed behaviors to techniques, distinguish evidence from assumptions. |
+| [Security Investigation Report](./case-studies/04-security-investigation-report/README.md) | Correlate available telemetry, assess impact and communicate recommended actions. |
+
+## Independent technical projects
+
+| Project | What I built | Evidence |
+| :---- | :---- | :---- |
+| \[Independent project 1\] | \[Architecture, configuration, or process\] | \[Repository link\] |
+| \[Independent project 2\] | \[Tested solution and lessons learned\] | \[Repository link\] |
+
+## Technical capabilities
+
+AlienVault OTX, SOC Radar, MITRE ATT\&CK, Microsoft Sentinel, Microsoft Defender, KQL, Jira Service Mntanageme
+
 
 
 
