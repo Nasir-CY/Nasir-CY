@@ -97,20 +97,17 @@ AlienVault OTX, SOC Radar, MITRE ATT\&CK, Microsoft Sentinel, Microsoft Defender
 | 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
-- **Evidence and documentation standards**
-
+## Evidence and documentation standards
 
 Every featured case study includes a scenario, scope and authorization, my individual contribution, methodology, sanitized evidence, analysis, result, limitations, and lessons learned. Screenshots alone do not demonstrate outcomes.
-- **Confidentiality:**
--
-- No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
 
+**Confidentiality:** No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
 
-Professional development
-Frameworks and standards: [Only those actually used]
-Certifications / courses: [Verified certifications and training]
-Current focus: [Specific technical growth goal]
+## Professional development
 
+- **Frameworks and standards:** \[Only those actually used\]  
+- **Certifications / courses:** \[Verified certifications and training\]  
+- **Current focus:** \[Specific technical growth goal\]
 ---
 
 ## Contact
