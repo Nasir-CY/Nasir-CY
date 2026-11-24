@@ -6,8 +6,9 @@ Cyber Threat Intelligence | Security Operations | Vulnerability Management | Net
 
 📍 Red Deer, Alberta, Canada
 🔗 www.linkedin.com/in/nasir-olayinka | 📧 hikkyluv70@gmail.com | 💻 [GitHub](https://github.com/Nasir-CY)
-  · [Resume URL]
-Professional profile
+
+
+**Professional profile**
 I am a Cybersecurity and Network Analyst with practical experience in infrastructure security, network administration, vulnerability assessment, identity and access management, threat intelligence, and security monitoring.
 
 My technical development combines hands-on laboratory implementations, structured security assessments, applied threat intelligence exercises, and independent technical projects.
