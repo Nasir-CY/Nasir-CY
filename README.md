@@ -8,7 +8,9 @@ Cyber Threat Intelligence | Security Operations | Vulnerability Management | Net
 🔗 www.linkedin.com/in/nasir-olayinka | 📧 hikkyluv70@gmail.com | 💻 [GitHub](https://github.com/Nasir-CY)
 
 
-**Professional profile**
+- **Professional profile:**
+
+  
 I am a Cybersecurity and Network Analyst with practical experience in infrastructure security, network administration, vulnerability assessment, identity and access management, threat intelligence, and security monitoring.
 
 My technical development combines hands-on laboratory implementations, structured security assessments, applied threat intelligence exercises, and independent technical projects.
@@ -94,9 +96,13 @@ AlienVault OTX, SOC Radar, MITRE ATT&CK, Microsoft Sentinel, Microsoft Defender,
 | 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
-**Evidence and documentation standards**
+- **Evidence and documentation standards**
+
+
 Every featured case study includes a scenario, scope and authorization, my individual contribution, methodology, sanitized evidence, analysis, result, limitations, and lessons learned. Screenshots alone do not demonstrate outcomes.
-**Confidentiality:** No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
+- **Confidentiality:**
+-
+- No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
 
 
 Professional development
